@@ -1,5 +1,5 @@
 ## Влияние погодных условий на прогнозирование количества аренд велосипедов в Лондоне
-https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/time_series_with_prediction.ipynb
+https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/time_series_with_prediction.ipynb  
 В этом блокноте представлен анализ количества аренды велосипедов в Лондоне c 2015-01-04 по 2017-01-03.
 
 Мы будем исследовать:
