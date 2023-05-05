@@ -45,6 +45,7 @@ https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/time_se
 Мы используем метод линейной регрессии для определения размера влияния, а также библиотеку fbprophet для предсказания количества аренды велосипедов. Fbprophet реализует обобщенную аддитивную модель и моделирует временной ряд как сумму различных компонентов (нелинейный тренд, периодические компоненты и праздники или особые события) и позволяет включать регрессоры.
 
 <hr>
+
 ## Кластеризация K-средних
 https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/kmeans_clusterization.ipynb
 
