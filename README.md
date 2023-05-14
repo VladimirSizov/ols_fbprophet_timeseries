@@ -58,8 +58,8 @@ https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/determi
 
 <hr>
 
-##Как я учил английский
-
+## Как я учил английский
+https://github.com/VladimirSizov/study_projects_DA/blob/main/how_i_learned_english.ipynb
 
 В какой-то момент я осознал что мне необходимо расширить свой лексикон английских слов.
 Самая большая сложность как выяснилось в процессе - это овладеть первыми 300-500 словами.
