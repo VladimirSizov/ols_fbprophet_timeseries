@@ -1,3 +1,5 @@
+Здесь собраны учебные проекты где я хотел потренироваться на данных:
+
 ## Анализ маркетинговых расходов интернет-магазина
 https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/marketing_traffic_analysis.ipynb
 
