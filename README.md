@@ -11,8 +11,7 @@ https://github.com/VladimirSizov/study_projects_DA/blob/main/how_i_learned_engli
 http://ayumu.ru/ здесь каждый желающий может проделать тот же путь что и я.
 
 Этот тренажер я написал сам прежде всего потому что хотел расширить собственный лексикон и немного потренироваться на python.  
-По ссылке вы можете посмотреть код тренажёра  
-https://github.com/VladimirSizov/memorize_the_words_ayumu
+Здесь можно посмотреть код тренажёра: https://github.com/VladimirSizov/memorize_the_words_ayumu
 
 <hr>
 
