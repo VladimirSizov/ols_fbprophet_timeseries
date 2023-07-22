@@ -1,6 +1,6 @@
 ## Эластичность спроса
 Рассчитываем оптимальную цену на товар для максимизации прибыли исходя из эластичности спроса
-https://github.com/VladimirSizov/
+https://github.com/VladimirSizov/other_things/tree/main/elastisity_of_demand
 
 <hr>
 
