@@ -1,3 +1,9 @@
+## Эластичность спроса
+Рассчитываем оптимальную цену на товар для максимизации прибыли исходя из эластичности спроса
+https://github.com/VladimirSizov/
+
+<hr>
+
 ## Кластеризация K-средних
 Подробный разбор кода алгоритма кластеризации k-средних
 https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/kmeans_clusterization.ipynb
