@@ -1,4 +1,8 @@
-Здесь собраны учебные проекты где я хотел попрактиковать обработку данных:
+## Кластеризация K-средних
+Подробный разбор кода алгоритма кластеризации k-средних
+https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/kmeans_clusterization.ipynb
+
+<hr>
 
 ## Как я расширял свой словарный запас в английском 
 https://github.com/VladimirSizov/study_projects_DA/blob/main/how_i_learned_english.ipynb
@@ -15,10 +19,7 @@ https://github.com/VladimirSizov/study_projects_DA/blob/main/how_i_learned_engli
 Этот тренажер я написал потому что хотел немного потренироваться на Django.  
 Код тренажёра здесь: https://github.com/VladimirSizov/memorize_the_words_ayumu
 
-<hr>
 
-## Кластеризация K-средних
-https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/kmeans_clusterization.ipynb
 
 Кластеризация K-средних, распространённый алгоритм неконтролируемого машинного обучения.
 
