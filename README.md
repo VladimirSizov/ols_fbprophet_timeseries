@@ -10,6 +10,11 @@ https://github.com/VladimirSizov/study_projects_data_analytics/blob/main/kmeans_
 
 <hr>
 
+## Подключение и загрузка данных личного кабинета продавца OZON
+Это небольшой модуль на Python с примером подключения к OZON по API, получением данных, а также их записи в БД.  
+https://github.com/VladimirSizov/other_things/tree/main/ozon_api_python
+<hr>
+
 ## Как я расширял свой словарный запас в английском 
 https://github.com/VladimirSizov/study_projects_DA/blob/main/how_i_learned_english.ipynb
 
