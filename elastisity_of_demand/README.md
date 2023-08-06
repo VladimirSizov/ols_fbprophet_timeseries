@@ -4,4 +4,4 @@
 
 Будем использовать сгенерированные данные на гипотетический товар.  
 ## Используемые библиотеки
-*numpy, pandas, seaborn, matplotlib, scipy, random, datetime, warnings* 
+*numpy, pandas, seaborn, matplotlib* 
